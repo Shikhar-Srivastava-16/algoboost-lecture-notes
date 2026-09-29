@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bc5c870ad52d8a3",
+        "id": "22abedcb2ba53ca0",
         "type": "tabs",
         "children": [
           {
-            "id": "bb416f13b0a4c30b",
+            "id": "aab9f78815ebf27a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "L1-lecture-notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L1-lecture-notes"
             }
           }
         ]
@@ -182,13 +186,13 @@
       "drawio-editor:Create new drawio diagram": false
     }
   },
-  "active": "bb416f13b0a4c30b",
+  "active": "aab9f78815ebf27a",
   "lastOpenFiles": [
-    "L1-lecture-notes.md",
-    "L2-lecture-notes.md",
     "examples/Fibonacci.md",
-    "examples/Pascal.md",
+    "L1-lecture-notes.md",
     "resources/fibonacci.svg",
+    "L2-lecture-notes.md",
+    "examples/Pascal.md",
     "L3-lecture-notes.md",
     "series-example.md",
     "Special-Fibonacci.md",

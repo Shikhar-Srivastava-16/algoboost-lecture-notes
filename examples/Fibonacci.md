@@ -1,8 +1,7 @@
 The fibonacci series is the series of numbers formed by adding together the last two existing numbers to add an element. It starts with (0, 1) and continues like this: 
 ![[fibonacci.svg]]
 
-In an expressive sense, this series breaks down to something of following description. Ignore the fact that the the code blocks say they're rust - they have a nasty habit of trying to trick you.
-
+In an expressive sense, this series breaks down to something of following description.
 
 The nth number in a fibonacci series becomes this:
 ```Rust
